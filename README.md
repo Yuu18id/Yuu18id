@@ -1,4 +1,4 @@
-[![Header](https://raw.githubusercontent.com/Yuu18id/<OWNER>/<OWNER>/readme_header.png "Header")](https://some-url.dev/)
+[![Header](https://raw.githubusercontent.com/Yuu18id/<OWNER>/<OWNER>/readme_header.png "Header")](U+1F44B)
 
 <!--
 **Yuu18id/Yuu18id** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
