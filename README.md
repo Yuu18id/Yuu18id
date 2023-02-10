@@ -1,4 +1,5 @@
-# Hello, folks! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
+# Hello! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
+I'm a computer science student
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Yuu18id&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 
