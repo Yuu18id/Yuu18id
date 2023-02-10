@@ -1,4 +1,5 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Yuu18id&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Bayu's GitHub stats](https://github-readme-stats.vercel.app/api?username=Yuu18id)](https://github.com/anuraghazra/github-readme-stats)
 
 
 <!--
